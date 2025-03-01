@@ -19,5 +19,6 @@ This repository contains a Python script (`airbnb.py`) designed for **analyzing 
 
 ## 📂 Files in This Repository
 - **`airbnb.py`** → Python script for Airbnb data analysis and modeling.
+- **`nyc_listing.csv`** → The csv dataset that we work on.
 - **`README.md`** → Documentation for this project.
 
