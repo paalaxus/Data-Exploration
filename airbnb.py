@@ -13,7 +13,7 @@ import plotly.express as px
 plt.rcParams['figure.figsize'] = [8,4]
 sns.set_theme(style = "darkgrid")
 
-listings = pd.read_csv("/Users/hostname/Downloads/PROJECTS/AB_NYC_2019.csv")
+listings = pd.read_csv("/Users/ra4284de/Downloads/Projects/Airbnb/nyc_listing.csv")
 print(listings.shape) #obtain the shape of the dataset
 #print(listings.head(4))
 
